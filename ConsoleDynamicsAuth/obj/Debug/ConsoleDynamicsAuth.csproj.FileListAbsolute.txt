@@ -1,0 +1,10 @@
+C:\agrofel-projects\ConsoleDynamicsAuth\ConsoleDynamicsAuth\bin\Debug\ConsoleDynamicsAuth.exe.config
+C:\agrofel-projects\ConsoleDynamicsAuth\ConsoleDynamicsAuth\bin\Debug\ConsoleDynamicsAuth.exe
+C:\agrofel-projects\ConsoleDynamicsAuth\ConsoleDynamicsAuth\bin\Debug\ConsoleDynamicsAuth.pdb
+C:\agrofel-projects\ConsoleDynamicsAuth\ConsoleDynamicsAuth\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\agrofel-projects\ConsoleDynamicsAuth\ConsoleDynamicsAuth\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\agrofel-projects\ConsoleDynamicsAuth\ConsoleDynamicsAuth\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\agrofel-projects\ConsoleDynamicsAuth\ConsoleDynamicsAuth\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\agrofel-projects\ConsoleDynamicsAuth\ConsoleDynamicsAuth\obj\Debug\ConsoleDynamicsAuth.csprojResolveAssemblyReference.cache
+C:\agrofel-projects\ConsoleDynamicsAuth\ConsoleDynamicsAuth\obj\Debug\ConsoleDynamicsAuth.exe
+C:\agrofel-projects\ConsoleDynamicsAuth\ConsoleDynamicsAuth\obj\Debug\ConsoleDynamicsAuth.pdb
